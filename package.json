@@ -1,0 +1,20 @@
+{
+    "name": "anydoor",
+    "version": "0.0.1",
+    "main": "build/index.js",
+    "scripts": {
+    },
+    "dependencies": {
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://git@github.com:weiriver/anydoor.git"
+    },
+    "keywords": [
+        "static",
+        "webserver"
+    ],
+    "author": "river",
+    "email": "riverwj@aliyun.com",
+    "license": "ISC"
+}
